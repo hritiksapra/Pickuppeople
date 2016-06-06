@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VolunTeam</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Placed an order but not at home?</string>
+    <string name="slide_1_desc">No problem! We will pick it up!</string>
+
+    <string name="slide_2_title">Track!</string>
+    <string name="slide_2_desc">Track your package!</string>
+
+    <string name="slide_3_title">Get Updates!</string>
+    <string name="slide_3_desc">Get Push Notifications on the go!</string>
+
+    <string name="slide_4_title">Happy shopping!</string>
+    <string name="slide_4_desc">Have no worries if you are out home now :)</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
